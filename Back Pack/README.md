@@ -1,4 +1,4 @@
-# AP-ASSIGNMENT-2
+# Back Pack (AP-ASSIGNMENT-2)
 A command line application made for Students and Professors, targeted towards the Distribution &amp; Management of Online Classroom.
 
 The application has 2 users, Students and Professors. An instructor can upload and view lecture materials. An instructor can upload and grade assessments.
