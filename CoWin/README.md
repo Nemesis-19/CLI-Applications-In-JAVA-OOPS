@@ -1,4 +1,4 @@
-# AP-ASSIGNMENT-1
+# CoWin (AP-ASSIGNMENT-1)
 I have created a command line application called as CoWin which is targeted towards the management of Hospital, People's Log, Vaccines &amp; Vaccination Process.
 
 The application has two chief stakeholders, citizens and hospitals. First, the hospitals will register themselves on the portal and upload their slots, which the
